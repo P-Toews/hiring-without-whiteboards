@@ -337,6 +337,7 @@ Also check out [No Whiteboards](https://nowhiteboards.io) to search for jobs at 
 - [Hash](https://www.hash.com.br/index.html) | Sao Paulo, Brazil | Take-home project and/or discussion (on-site or remote)
 - [Hashrocket](https://hashrocket.com) | Chicago, IL/Jacksonville Beach, FL | Remote pairing session, paid week pair programming with everyone on the team
 - [Headspring](https://headspring.com/about/careers) | Austin, TX; Houston, TX; Monterrey, Mexico | Take-home situational questionnaire and code exercise, with in-person follow up to discuss and pair for changes
+- [Healex](https://healex.systems) | Cologne and Berlin, Germany, Remote and on-site | 3 step interview process with the team with focus on technical background, expertise and and fit. Optional review of code samples / github repo.
 - [Healthify](https://healthify.us) | Remote & New York City, NY | Take-home project, discussion via Zoom, pair programming with us on our app for a day.
 - [HeavenHR](https://heavenhr.com) | Berlin, Germany | Take home project based on the candidate's experience and future responsibilities. Then discussion about the solution
 - [HE:labs](https://helabs.com) | Rio de Janeiro, Brazil & Remote | Take-home project and discussion via Skype.
